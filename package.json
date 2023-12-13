@@ -13,8 +13,6 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
      "sonar": "node sonar-project.js"
-    sonarUrl: http://3.89.220.206:9000
-    sonar.login:squ_4f919d93f7b5b867acb866204330cd61e4c7b0c2
   },
   "dependencies": {
     "cfenv": "^1.1.0",
